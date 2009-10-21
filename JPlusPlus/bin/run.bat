@@ -1,0 +1,1 @@
+"c:\Program Files\Java\jdk1.5.0_14\bin\javadoc.exe" -docletpath ..\bin -doclet com.jplusplus.main.MainDoclet com\jplusplus\test\TestClass.java com\jplusplus\test\TestClass2.java 

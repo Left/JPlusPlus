@@ -1,0 +1,1 @@
+"c:\Program Files\Java\jdk1.5.0_14\bin\javah.exe" -classpath ..\bin com.jplusplus.test.TestClass com.jplusplus.test.TestClass2

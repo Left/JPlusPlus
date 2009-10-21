@@ -6,7 +6,7 @@ public class Hello
    
 
 	/**
-	*
+	* Now let's add real comment here
 	**/
    public static void main( String[] args )
    {
